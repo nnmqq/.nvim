@@ -1,0 +1,7 @@
+require("config.lazy")
+require("config.git")
+require("config.ui")
+require("config.langs.java")
+require("colorscheme")
+require("keymaps")
+require("options")
